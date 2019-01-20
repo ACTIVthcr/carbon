@@ -1,0 +1,11 @@
+# map size
+C - 3 - 4
+# map moutain position
+M - 1 - 0
+M - 2 - 1
+# map treasure position and number
+T - 0 - 3 - 2
+T - 1 - 3 - 3
+# adventurer movement
+A - Lara - 1 - 1 - S - AADADAGGA
+A - Indiana - 1 - 2 - S - AGAGAAA
